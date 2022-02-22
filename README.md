@@ -1,4 +1,4 @@
-## [Exercícios sobre Funções em JavaScript](https://github.com/henrizampacheco/exercicios-funcoes-javascript "Exercícios sobre Funções em JavaScript")
+## [Exercícios: Funções em JavaScript](https://github.com/henrizampacheco/exercicios-funcoes-javascript "Exercícios: Funções em JavaScript")
 
 Fonte da lista de exercícios: https://www.udemy.com/course/curso-web/
 
@@ -40,7 +40,7 @@ Partindo daí elabore uma função que recebe um ano e calcula se ele é ano bis
 
 **12)** Faça um algoritmo que calcule o fatorial de um número.
 
-13) Crie um programa que exibe se um dia é dia útil, fim de semana ou dia inválido dado o número referente ao dia. Considere que domingo é o dia 1 e sábado é o dia 7. Utilize a estrutura Switch.
+**13)** Crie um programa que exibe se um dia é dia útil, fim de semana ou dia inválido dado o número referente ao dia. Considere que domingo é o dia 1 e sábado é o dia 7. Utilize a estrutura Switch.
 
 **14)** Crie uma estrutura condicional switch que receba uma string com o nome de uma fruta e que possua três casos: Caso maçã, retorne no console: “Não vendemos esta fruta aqui”. Caso kiwi, retorne: “Estamos com escassez de kiwis”. Caso melancia, retorne: “Aqui está, são 3 reais o quilo”. Teste com estas três opções .Crie também um default, que retornará uma mensagem de erro no console.
 
@@ -67,6 +67,9 @@ Faça uma função que leia o plano de trabalho e o salário atual de um funcion
 |   500  |     Refrigerante     | R$ 3,50 |
 |   600  |         Suco         | R$ 2,80 |
 Implemente uma função que receba como parâmetros o código do item pedido, a quantidade e calcule o valor a ser pago por aquele lanche. Considere que a cada execução somente será calculado um item. Use o comando switch. Crie um caso default para produto não existente.
+
+**20)** Crie um programa para informar quais e quantas notas são necessárias para entregar o mínimo de cédulas para um determinado valor informado pelo usuário considerando notas de R$ 100, R$ 50, R$ 10 e R$ 5 e R$ 1.
+Seu programa deve mostrar apenas as notas utilizadas. Por exemplo, ao solicitar R$18, o programa deve informar apenas a seguinte informação (note que não foram exibidas informações sobre as demais cédulas): 1 nota(s) de R$ 10. 1 nota(s) de R$ 5. 3 nota(s) de R$ 1.
 
 ### Tecnologias
 ------------
